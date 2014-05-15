@@ -12,6 +12,12 @@
 /db/*.sqlite3-journal
 
 # Ignore all logfiles and tempfiles.
-rails_*/log/*.log
-rails_*/tmp
-public/assets/
+rails_3_2/log/*.log
+rails_3_2/tmp
+rails_4_0/log/*.log
+rails_4_0/tmp
+rails_4_1/log/*.log
+rails_4_1/tmp
+rails_3_2/public/assets/
+rails_4_0/public/assets/
+rails_4_1/public/assets/
